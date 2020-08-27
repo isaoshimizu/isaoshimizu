@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaoshimizu" alt="isaoshimizu" /> </p>
 
-- 🔭 I’m currently working on [家族アルバム みてね/FamilyAlbum](https://mitene.us https://family-album.com)
+- 🔭 I’m currently working on [家族アルバム みてね](https://mitene.us) / [FamilyAlbum](https://family-album.com)
 
 - 👨‍💻 All of my projects are available at [https://blog.ishmz.com/about](https://blog.ishmz.com/about)
 
