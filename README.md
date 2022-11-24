@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isao Shimizu</h1>
-<h3 align="center">SRE at mixi, Inc.</h3>
+<h3 align="center">SRE Manager at MIXI, Inc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaoshimizu" alt="isaoshimizu" /> </p>
 
